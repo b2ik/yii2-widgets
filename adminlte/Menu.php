@@ -1,6 +1,6 @@
 <?php
 
-namespace b2ik\\yii2widgets\adminlte;
+namespace b2ik\yii2widgets\adminlte;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
