@@ -1,0 +1,20 @@
+{
+	"name" : "b2ik/yii2-widgets",
+	"description" : "Yii2 widgets",
+	"keywords" : ["yii2", "b2ik", "widget"],
+	"type" : "yii2-extension",
+	"authors" : [
+            {
+                "name" : "Nik Chernyh"
+            }
+	],
+	"minimum-stability" : "stable",
+	"require" : {
+		"yiisoft/yii2" : "*"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"b2ik\\yii2widgets\\" : ""
+		}
+	}
+}

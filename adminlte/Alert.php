@@ -1,6 +1,6 @@
 <?php
 
-namespace monecle\adminlte\widgets;
+namespace b2ik\yii2widgets\adminlte;
 
 use \yii\bootstrap\Alert as BootstrapAlert;
 use \yii\bootstrap\Widget;
